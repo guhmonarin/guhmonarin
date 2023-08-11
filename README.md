@@ -5,7 +5,6 @@
 - 😄 Meu nome é Gustavo Monarin dos Santos<br>
 - 🌎 Sou do Brasil<br>
 - 👨🏻‍💻 Adoro programação, tecnologia e jogos<br>
-- 💻 Atualmente estou aprendendo Python, Desenvolvimento Web, e qualquer coisa que me interesse.<br>
 - 🧠 Adoro compartilhar conhecimento<br>
 - ✈️ Viajar é um dos meus hobbies favoritos<br>
 - 📧 Pode falar comigo através do gustavomonarin11@gmail.com<br>
